@@ -88,41 +88,19 @@ UI: Zomato includes restaurant images, food categories, search bars, ratings, an
 UX: Users can find nearby restaurants, compare menus, place food orders, and track deliveries conveniently.
 
 UI and UX Comparison Table
-Application
 
-UI Elements
 
-UX Features
 
-Instagram
+## UI and UX Comparison Table
 
-Stories, icons, profile layout
+| Application | UI Elements | UX Features |
+|:---:|:---|:---|
+| YouTube | Thumbnails, icons, search bar | Easy video searching |
+| Google Maps | Maps, location icons | Simple route navigation |
+| WhatsApp | Chat screen, buttons | Easy communication |
+| Flipkart | Product images, categories | Convenient shopping |
+| Spotify | Album covers, music buttons | Easy music discovery |
 
-Easy social interaction
-
-Amazon
-
-Product images, menus, cart
-
-Simple online shopping
-
-Google Pay
-
-Payment buttons, QR scanner
-
-Quick money transfers
-
-Netflix
-
-Movie posters, playback controls
-
-Easy entertainment discovery
-
-Zomato
-
-Restaurant images, food menus
-
-Convenient food ordering
 
 Key Insight:
 
@@ -167,62 +145,18 @@ UI/UX design tools are software applications that help designers create website 
 
 These tools simplify the design process and help teams visualize, test, and improve their ideas before actual development.
 
-UI/UX Design Tools Comparison
-Tool
 
-Main Purpose
+## UI/UX Design Tools Comparison
 
-Advantages
+| Tool | Main Purpose | Advantages | Limitations |
+|:---:|:---|:---|:---|
+| Figma | Interface design | Team collaboration | Some features require internet |
+| Adobe XD | UI prototyping | Interactive designs | Limited current development |
+| Sketch | Digital interface design | Reusable design components | Primarily Mac-based |
+| Canva | Graphic designing | Beginner-friendly | Limited advanced prototyping |
+| Balsamiq | Wireframing | Simple layout creation | Basic design capabilities |
+| InVision | Prototyping | Feedback and collaboration | Limited standalone design capabilities |
 
-Limitations
-
-Figma
-
-Interface design
-
-Team collaboration
-
-Some features require internet
-
-Adobe XD
-
-UI prototyping
-
-Interactive designs
-
-Limited current development
-
-Sketch
-
-Digital interface design
-
-Reusable design components
-
-Primarily Mac-based
-
-Canva
-
-Graphic designing
-
-Beginner-friendly
-
-Limited advanced prototyping
-
-Balsamiq
-
-Wireframing
-
-Simple layout creation
-
-Basic design capabilities
-
-InVision
-
-Prototyping
-
-Feedback and collaboration
-
-Limited standalone design capabilities
 
 Description of Tools
 1. Figma
