@@ -13,7 +13,7 @@ To understand the basic concepts of User Interface (UI) and User Experience (UX)
 6. Draw a simple diagram explaining the relationship between UI and UX.
 7. Explore different design tools such as Figma, Adobe XD, Sketch, Canva, and Balsamiq.
 8. Record the observations and results.
-##output:
+output:
 a) Explore the Fundamentals of UI and UX
 User Interface (UI)
 User Interface (UI) refers to the visual part of a website or application through which users interact with its features. It includes different design elements such as buttons, icons, colours, text styles, menus, images, and page arrangements.
@@ -255,7 +255,8 @@ Supports team communication.
 
 Helps evaluate interface ideas.
 
-##Result:
+
+result:
 Thus, the fundamentals of User Interface (UI) and User Experience (UX) were explored successfully. The differences between UI and UX were identified using real-world application examples. Their relationship in digital product design was explained through a diagram, and various UI/UX design tools, their features, advantages, and limitations were studied.
 
 
