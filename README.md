@@ -151,34 +151,7 @@ Testing and Evaluation: Both UI and UX are evaluated to identify design and usab
 
 Continuous Improvement: Feedback is used to improve the interface and overall experience.
 
-Relationship Diagram
 
-text
-       USER REQUIREMENTS
-               |
-               v
-         UX RESEARCH
-               |
-               v
-        UX EXPERIENCE
-               |
-               v
-          UI DESIGN
-               |
-               v
-      VISUAL INTERFACE
-               |
-               v
-       USER INTERACTION
-               |
-               v
-       TESTING & FEEDBACK
-               |
-               v
-      BETTER USER EXPERIENCE
-               |
-               v
-       SUCCESSFUL PRODUCT
 GOOD UI = Better Visual Appearance
 
 GOOD UX = Better User Interaction
